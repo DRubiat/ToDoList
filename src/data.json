@@ -1,0 +1,39 @@
+[{
+    "id": 1,
+    "task": "Make bed",
+    "complete": true
+  }, {
+    "id": 2,
+    "task": "Do laundry",
+    "complete": true
+  }, {
+    "id": 3,
+    "task": "Vacuum floor",
+    "complete": false
+  },
+  {
+    "id": 4,
+    "task": "Write an Email to boss",
+    "complete": false
+  },
+  {  
+    "id": 5,
+    "task": "Fill out Journal",
+    "complete": false
+  },
+  {  
+    "id": 6,
+    "task": "Make food for the day",
+    "complete": false
+  },
+  {  
+    "id": 7,
+    "task": "Go for a walk in the park",
+    "complete": false
+  },
+  {  
+    "id": 8,
+    "task": "Complete To Do List",
+    "complete": false
+  }
+]
