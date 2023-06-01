@@ -2,8 +2,20 @@
   text-align: center;
 }
 
+body {
+  background-color: beige;
+}
+
+p {
+  font-size: 100px;
+}
+
 .strike {
   text-decoration: line-through;
+}
+
+.todo {
+  font-size: large;
 }
 
 .App-header {
@@ -15,4 +27,28 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.form {
+  margin: 20px;
+}
+
+.input-bar {
+  width: 15%;
+  padding: 10px;
+}
+
+.submit-btn {
+  margin-left: 10px;
+  padding: 15px;
+  background-color: #D3D3D3;
+  border: none;
+}
+
+.completed-btn {
+  margin: 20px;
+  padding: 20px;
+  background-color: #097969;
+  color: #FFFFFF;
+  border: none;
 }
